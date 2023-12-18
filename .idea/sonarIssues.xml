@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaAppiumJan2021/TestData/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaAppiumJan2021/src/test/java/day8/ExampleCustomException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaAppiumJan2021/src/test/java/day9/Genric.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaAppiumJan2021/src/test/java/day9/ReadFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaAppiumJan2021/src/test/java/day9/ReadFromProperties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaAppiumJan2021/src/test/java/day9/ReadTxt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaAppiumJan2021/src/test/java/day9/SeleniumWithprop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaAppiumJan2021/src/test/java/day9/WriteProp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/Assignment/Example.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/LearningTestNG/Annotations.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/LearningTestNG/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/LearningTestNG/Test01.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/LearningTestNG/Test02.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/SeleniumConcepts/ByClassName.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/SeleniumConcepts/ById.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/SeleniumConcepts/ByLinkText.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/SeleniumConcepts/ByLinkText_1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/SeleniumConcepts/ByName.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/SeleniumConcepts/ByPartialLinkText.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/SeleniumConcepts/LaunchingBrowser_new.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/day11/ExampleArray2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/day11/ExampleJavaArray.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/day11/ExampleJavaArray_sort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/day11/ExmpleArray2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/day11/ListExample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/day11/ListExample_sort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/src/test/java/day11/SeleniumWithList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/JavaSeleniumDecJan2021/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/iOS_iPhone 8/Application.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/iOS_iPhone 8/Server.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/src/main/java/com/qa/utils/DriverManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/src/main/java/com/qa/utils/GlobalParams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/src/main/java/com/qa/utils/ServerManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/src/test/java/com/qa/pages/BasePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/src/test/java/com/qa/pages/LoginPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/src/test/java/com/qa/runners/RunnerBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/src/test/java/com/qa/stepdef/Hooks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/appium-cucumberbdd-testng-master/src/test/resources/testng.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppiumAutomationArunaGandhi/config.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppiumAutomationArunaGandhi/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppiumAutomationArunaGandhi/src/test/java/day1/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppiumAutomationArunaGandhi/src/test/java/day1/Generic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppiumAutomationArunaGandhi/src/test/java/day1/Test001.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppiumAutomationArunaGandhi/src/test/java/day1/Test002.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../AppiumAutomationArunaGandhi/src/test/java/day1/TestGestures_WebView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/excel_lib/uat/ios/TestData.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/scripts.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/library/BaseClass_pCloudy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/library/Generic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/wibmo/app/pagerepo/R1/BillPayPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/wibmo/app/testScripts/BaseClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/wibmo/app/testScripts/BaseDev.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/wibmo/app/testScripts/BaseTest1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/wibmo/app/testScripts/BillPay/TC_BillPay_C1_001.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/wibmo/app/testScripts/BillPay/TC_BillPay_C1_018.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/wibmo/bdo/app/pagerepo/BillPayPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/wibmo/bdo/app/pagerepo/DefaultAccountPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/excel_lib/web/TestData.ini">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/PageRepo/HomePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/PageRepo/LoginPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/PageRepo/RequestMoney.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/testScripts/BaseDev.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/testScripts/BaseTest1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/testScripts/HomePage/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/testScripts/HomePage/TC_HM_C1_001.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/testScripts/LoginPage/TC_LGN_C1_06.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../BDO_CSR_WebAutomation/src/test/java/wibmo/bdo/CSR/testScripts/RequestMoney/TC_RMC_C1_153.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CucumberFrameworkJan2021/src/test/java/features/Login.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CucumberFrameworkJan2021/src/test/java/features/Search.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CucumberFrameworkJan2021/src/test/java/runner/Runner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CucumberFrameworkJan2021/src/test/java/stepdefinations/StepDefination.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../CucumberFrameworkJan2021/src/test/java/utility/JavaUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day2/Calculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day2/StringManupulation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day2/StringManupulation2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day2/Student.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day2/SwappingTwoNumbers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day4/Calculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day4/Car.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day4/DemoAccess3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day4/ExampleSelenium.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day4/Varibles.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/Animal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/BankAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/BaseClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/BasicMobile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/Battery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/Cat.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/CreateAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/DemoAccess2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/DemoAccessModifiers.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/DemoPolyMorph.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/Dog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/ICICI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/Mobile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/MobileInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/OpenGoogle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/RBI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/SBI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/SmartPhone.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../JavaSeleniumRamya/src/test/java/day5/Vet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/DevicesList/avilableDevices.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/scripts.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/library/BaseClass_pCloudy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/pagerepo/WelcomePage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/BaseTest1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/Guest_Checkout/GCO_018.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/Guest_Checkout/GCO_019.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/Guest_Checkout/GCO_020.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/Guest_Checkout/GCO_021.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/IAP_Payment/IAP_012.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/IAP_Payment/IAP_014.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/IAP_Payment/IAP_018.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/Login/TC_LGN_02.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/Recharge/TC_MREC_02.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/SimRegression/IVR_005.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/SmokeTest/SMT_037.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/SmokeTest/SMT_038.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/GCO_018.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/GCO_019.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/GCO_020.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/GCO_021.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAPV2AS_007.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAPV2AS_015.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAPV2AS_016.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAPV2AS_017.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAP_010.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAP_011.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAP_012.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAP_013.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Retail/src/test/java/wibmo/app/testScripts/WebOverlay/IAP_018.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumberFramework_Web_Mobile/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumberFramework_Web_Mobile/src/test/java/stepdefinations/MerchantSimulator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumberFramework_Web_Mobile/src/test/java/utility/DriverUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cucumberFramework_Web_Mobile/src/test/java/utility/Hook.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/API_AutomationFramework/src/test/java/jira/base/test/CreateIssue.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/eclipse-workspace/API_AutomationFramework/src/test/java/jira/base/test/LoginTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

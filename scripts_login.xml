@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+  <test name="Device_RZ8N_Test">
+    <parameter name="device-id" value="AEF8171E-9EB6-42C8-957E-42087B5D1603"/>
+    <classes>
+     <class name="ZeissApp.app.testScripts.Patient.TC_Patient_001"/>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,13 @@
+
+A
+java:S2925%"$Remove this use of "Thread.sleep()".(¯ú™ú8Âß×™÷.
+A
+java:S2925*"$Remove this use of "Thread.sleep()".(¯ú™ú8áŒà™÷.
+¬
+java:S3577"ŽRename class "GetUsageDetails" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ÄÅ¹æ8Âß×™÷.
+A
+java:S2925,"$Remove this use of "Thread.sleep()".(¬Æ„°8áŒà™÷.
+A
+java:S2925("$Remove this use of "Thread.sleep()".(¯ú™ú8áŒà™÷.
+A
+java:S2925B"$Remove this use of "Thread.sleep()".(¯ú™ú8áŠ‰š÷.
